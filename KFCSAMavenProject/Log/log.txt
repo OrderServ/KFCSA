@@ -1,0 +1,866 @@
+
+Hello World
+Hello World
+---------------------------------------------------------------------------------------
+2/7/19 1:25 PM
+Hello World
+---------------------------------------------------------------------------------------
+2/7/19 1:32 PM : Hello World
+---------------------------------------------------------------------------------------
+2/7/19 7:03 PM : initializing extent report
+---------------------------------------------------------------------------------------
+2/7/19 7:03 PM : starting test caseKFCSAMavenProject.Run.NewTest
+---------------------------------------------------------------------------------------
+2/7/19 7:03 PM : browser is up and running
+---------------------------------------------------------------------------------------
+2/7/19 7:03 PM : navigateToLoginPage method
+---------------------------------------------------------------------------------------
+2/7/19 7:04 PM : login method
+---------------------------------------------------------------------------------------
+2/7/19 7:04 PM : login id : souvik.maiti@cognizant.comlogin password : Password2$
+---------------------------------------------------------------------------------------
+2/7/19 7:36 PM : initializing extent report
+
+2/7/19 7:36 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 7:36 PM : browser is up and running
+
+2/7/19 7:36 PM : navigateToLoginPage method
+
+2/7/19 7:36 PM : login method
+
+2/7/19 7:36 PM : login id : souvik.maiti@cognizant.comlogin password : Password2$
+
+2/7/19 8:23 PM : initializing extent report
+
+2/7/19 8:23 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:23 PM : browser is up and running
+
+2/7/19 8:23 PM : navigateToLoginPage method
+
+2/7/19 8:24 PM : login method
+
+2/7/19 8:24 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:24 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:27 PM : initializing extent report
+
+2/7/19 8:27 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:27 PM : browser is up and running
+
+2/7/19 8:27 PM : navigateToLoginPage method
+
+2/7/19 8:27 PM : login method
+
+2/7/19 8:27 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:27 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:31 PM : initializing extent report
+
+2/7/19 8:31 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:31 PM : browser is up and running
+
+2/7/19 8:31 PM : navigateToLoginPage method
+
+2/7/19 8:32 PM : login method
+
+2/7/19 8:32 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:32 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:33 PM : initializing extent report
+
+2/7/19 8:33 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:33 PM : browser is up and running
+
+2/7/19 8:33 PM : navigateToLoginPage method
+
+2/7/19 8:33 PM : login method
+
+2/7/19 8:33 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:35 PM : initializing extent report
+
+2/7/19 8:35 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:35 PM : browser is up and running
+
+2/7/19 8:35 PM : navigateToLoginPage method
+
+2/7/19 8:35 PM : login method
+
+2/7/19 8:35 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:35 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:40 PM : initializing extent report
+
+2/7/19 8:41 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:41 PM : browser is up and running
+
+2/7/19 8:41 PM : navigateToLoginPage method
+
+2/7/19 8:41 PM : login method
+
+2/7/19 8:41 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:41 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:46 PM : initializing extent report
+
+2/7/19 8:46 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:47 PM : browser is up and running
+
+2/7/19 8:47 PM : navigateToLoginPage method
+
+2/7/19 8:47 PM : login method
+
+2/7/19 8:47 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 8:47 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 8:51 PM : initializing extent report
+
+2/7/19 8:51 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 8:51 PM : browser is up and running
+
+2/7/19 8:51 PM : navigateToLoginPage method
+
+2/7/19 8:51 PM : login method
+
+2/7/19 8:51 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:02 PM : initializing extent report
+
+2/7/19 9:02 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:02 PM : browser is up and running
+
+2/7/19 9:02 PM : navigateToLoginPage method
+
+2/7/19 9:02 PM : login method
+
+2/7/19 9:02 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:02 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 9:04 PM : initializing extent report
+
+2/7/19 9:04 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:04 PM : browser is up and running
+
+2/7/19 9:04 PM : navigateToLoginPage method
+
+2/7/19 9:05 PM : login method
+
+2/7/19 9:05 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:05 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 9:08 PM : initializing extent report
+
+2/7/19 9:08 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:08 PM : browser is up and running
+
+2/7/19 9:08 PM : navigateToLoginPage method
+
+2/7/19 9:08 PM : login method
+
+2/7/19 9:08 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:08 PM : KFCSAMavenProject.Run.NewTest failed to run
+---------------------------------------------------------------------------------------
+2/7/19 9:13 PM : initializing extent report
+
+2/7/19 9:13 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:13 PM : browser is up and running
+
+2/7/19 9:13 PM : navigateToLoginPage method
+
+2/7/19 9:13 PM : login method
+
+2/7/19 9:13 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:14 PM : initializing extent report
+
+2/7/19 9:14 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:15 PM : browser is up and running
+
+2/7/19 9:15 PM : navigateToLoginPage method
+
+2/7/19 9:15 PM : login method
+
+2/7/19 9:15 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:15 PM : KFCSAMavenProject.Run.NewTest failed
+---------------------------------------------------------------------------------------
+2/7/19 9:29 PM : initializing extent report
+
+2/7/19 9:29 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:29 PM : browser is up and running
+
+2/7/19 9:29 PM : navigateToLoginPage method
+
+2/7/19 9:30 PM : login method
+
+2/7/19 9:30 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:30 PM : initializing extent report
+
+2/7/19 9:30 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:30 PM : browser is up and running
+
+2/7/19 9:30 PM : navigateToLoginPage method
+
+2/7/19 9:31 PM : login method
+
+2/7/19 9:31 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:43 PM : initializing extent report
+
+2/7/19 9:43 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:43 PM : browser is up and running
+
+2/7/19 9:43 PM : navigateToLoginPage method
+
+2/7/19 9:43 PM : login method
+
+2/7/19 9:44 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:44 PM : KFCSAMavenProject.Run.NewTest failed
+---------------------------------------------------------------------------------------
+2/7/19 9:53 PM : initializing extent report
+
+2/7/19 9:53 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:54 PM : browser is up and running
+
+2/7/19 9:54 PM : navigateToLoginPage method
+
+2/7/19 9:54 PM : login method
+
+2/7/19 9:54 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:54 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:54 PM : browser is up and running
+
+2/7/19 9:54 PM : navigateToLoginPage method
+
+2/7/19 9:54 PM : login method
+
+2/7/19 9:54 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:54 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:54 PM : browser is up and running
+
+2/7/19 9:54 PM : navigateToLoginPage method
+
+2/7/19 9:54 PM : login method
+
+2/7/19 9:54 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:54 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:54 PM : browser is up and running
+
+2/7/19 9:54 PM : navigateToLoginPage method
+
+2/7/19 9:54 PM : login method
+
+2/7/19 9:54 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 9:54 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 9:55 PM : browser is up and running
+
+2/7/19 9:55 PM : navigateToLoginPage method
+
+2/7/19 9:55 PM : login method
+
+2/7/19 9:55 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:17 PM : initializing extent report
+
+2/7/19 10:17 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:18 PM : browser is up and running
+
+2/7/19 10:18 PM : navigateToLoginPage method
+
+2/7/19 10:18 PM : login method
+
+2/7/19 10:18 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:18 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:18 PM : browser is up and running
+
+2/7/19 10:18 PM : navigateToLoginPage method
+
+2/7/19 10:18 PM : login method
+
+2/7/19 10:18 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:18 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:18 PM : browser is up and running
+
+2/7/19 10:18 PM : navigateToLoginPage method
+
+2/7/19 10:18 PM : login method
+
+2/7/19 10:18 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:18 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:18 PM : browser is up and running
+
+2/7/19 10:18 PM : navigateToLoginPage method
+
+2/7/19 10:18 PM : login method
+
+2/7/19 10:18 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:18 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:18 PM : browser is up and running
+
+2/7/19 10:18 PM : navigateToLoginPage method
+
+2/7/19 10:18 PM : login method
+
+2/7/19 10:18 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/7/19 10:29 PM : initializing extent report
+
+2/7/19 10:29 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/7/19 10:29 PM : browser is up and running
+
+2/7/19 10:29 PM : navigateToLoginPage method
+
+2/7/19 10:29 PM : login method
+
+2/7/19 10:29 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/8/19 10:07 PM : initializing extent report
+
+2/8/19 10:07 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/8/19 10:07 PM : browser is up and running
+
+2/8/19 10:07 PM : navigateToLoginPage method
+
+2/8/19 10:08 PM : login method
+
+2/8/19 10:08 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/8/19 10:09 PM : initializing extent report
+
+2/8/19 10:09 PM : starting test caseKFCSAMavenProject.Run.NewTest
+
+2/8/19 10:09 PM : browser is up and running
+
+2/8/19 10:09 PM : navigateToLoginPage method
+
+2/8/19 10:09 PM : login method
+
+2/8/19 10:09 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/8/19 10:09 PM : KFCSAMavenProject.Run.NewTest failed
+---------------------------------------------------------------------------------------
+2/9/19 3:08 PM : initializing extent report
+
+2/9/19 3:08 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:09 PM : browser is up and running
+
+2/9/19 3:09 PM : navigateToLoginPage method
+
+2/9/19 3:09 PM : login method
+
+2/9/19 3:09 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 3:24 PM : initializing extent report
+
+2/9/19 3:24 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:24 PM : browser is up and running
+
+2/9/19 3:24 PM : navigateToLoginPage method
+
+2/9/19 3:24 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:24 PM : browser is up and running
+
+2/9/19 3:24 PM : navigateToLoginPage method
+
+2/9/19 3:24 PM : login method
+
+2/9/19 3:24 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 3:28 PM : initializing extent report
+
+2/9/19 3:28 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:28 PM : browser is up and running
+
+2/9/19 3:28 PM : navigateToLoginPage method
+
+2/9/19 3:29 PM : login method
+
+2/9/19 3:29 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 3:29 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:29 PM : browser is up and running
+
+2/9/19 3:29 PM : navigateToLoginPage method
+
+2/9/19 3:29 PM : login method
+
+2/9/19 3:30 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 3:47 PM : initializing extent report
+
+2/9/19 3:47 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:47 PM : browser is up and running
+
+2/9/19 3:47 PM : navigateToLoginPage method
+
+2/9/19 3:48 PM : login method
+
+2/9/19 3:48 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 3:48 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 3:48 PM : browser is up and running
+
+2/9/19 3:48 PM : navigateToLoginPage method
+
+2/9/19 3:48 PM : login method
+
+2/9/19 3:49 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 4:00 PM : initializing extent report
+
+2/9/19 4:00 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:01 PM : browser is up and running
+
+2/9/19 4:01 PM : navigateToLoginPage method
+
+2/9/19 4:01 PM : login method
+
+2/9/19 4:01 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 4:01 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:01 PM : browser is up and running
+
+2/9/19 4:01 PM : navigateToLoginPage method
+
+2/9/19 4:01 PM : login method
+
+2/9/19 4:04 PM : initializing extent report
+
+2/9/19 4:04 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:04 PM : browser is up and running
+
+2/9/19 4:04 PM : navigateToLoginPage method
+
+2/9/19 4:04 PM : login method
+
+2/9/19 4:04 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 4:04 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:04 PM : browser is up and running
+
+2/9/19 4:04 PM : navigateToLoginPage method
+
+2/9/19 4:04 PM : login method
+
+2/9/19 4:05 PM : initializing extent report
+
+2/9/19 4:05 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:05 PM : browser is up and running
+
+2/9/19 4:05 PM : navigateToLoginPage method
+
+2/9/19 4:06 PM : login method
+
+2/9/19 4:06 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 4:06 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:06 PM : browser is up and running
+
+2/9/19 4:06 PM : navigateToLoginPage method
+
+2/9/19 4:06 PM : login method
+
+2/9/19 4:11 PM : initializing extent report
+
+2/9/19 4:11 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:12 PM : browser is up and running
+
+2/9/19 4:12 PM : navigateToLoginPage method
+
+2/9/19 4:12 PM : login method
+
+2/9/19 4:12 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 4:12 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:12 PM : browser is up and running
+
+2/9/19 4:12 PM : navigateToLoginPage method
+
+2/9/19 4:12 PM : login method
+
+2/9/19 4:24 PM : initializing extent report
+
+2/9/19 4:25 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 4:25 PM : browser is up and running
+
+2/9/19 4:25 PM : navigateToLoginPage method
+
+2/9/19 4:25 PM : login method
+
+2/9/19 4:26 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 4:27 PM : initializing extent report
+
+2/9/19 5:01 PM : initializing extent report
+
+2/9/19 5:02 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:02 PM : browser is up and running
+
+2/9/19 5:02 PM : navigateToLoginPage method
+
+2/9/19 5:03 PM : login method
+
+2/9/19 5:03 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:03 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:03 PM : browser is up and running
+
+2/9/19 5:03 PM : navigateToLoginPage method
+
+2/9/19 5:03 PM : login method
+
+2/9/19 5:07 PM : initializing extent report
+
+2/9/19 5:08 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:08 PM : browser is up and running
+
+2/9/19 5:08 PM : navigateToLoginPage method
+
+2/9/19 5:09 PM : login method
+
+2/9/19 5:09 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:13 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:13 PM : browser is up and running
+
+2/9/19 5:13 PM : navigateToLoginPage method
+
+2/9/19 5:13 PM : login method
+
+2/9/19 5:18 PM : initializing extent report
+
+2/9/19 5:19 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:19 PM : browser is up and running
+
+2/9/19 5:19 PM : navigateToLoginPage method
+
+2/9/19 5:19 PM : login method
+
+2/9/19 5:19 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:19 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:24 PM : initializing extent report
+
+2/9/19 5:24 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:25 PM : browser is up and running
+
+2/9/19 5:25 PM : navigateToLoginPage method
+
+2/9/19 5:25 PM : login method
+
+2/9/19 5:25 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:25 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:29 PM : initializing extent report
+
+2/9/19 5:29 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:29 PM : browser is up and running
+
+2/9/19 5:29 PM : navigateToLoginPage method
+
+2/9/19 5:29 PM : login method
+
+2/9/19 5:29 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:30 PM : initializing extent report
+
+2/9/19 5:30 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:30 PM : browser is up and running
+
+2/9/19 5:30 PM : navigateToLoginPage method
+
+2/9/19 5:31 PM : login method
+
+2/9/19 5:31 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:33 PM : initializing extent report
+
+2/9/19 5:33 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/9/19 5:34 PM : browser is up and running
+
+2/9/19 5:34 PM : navigateToLoginPage method
+
+2/9/19 5:34 PM : login method
+
+2/9/19 5:34 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:34 PM : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='header-wrap']/div/div[2]/div[3]/a"}
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'PC257863', ip: '10.227.9.186', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\579401\AppData\Local\Temp\scoped_dir16280_5237}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=70.0.3538.67, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 350403955e4dafa7da1704727de9d4d0
+*** Element info: {Using=xpath, value=//*[@id='header-wrap']/div/div[2]/div[3]/a} failed
+
+2/9/19 5:56 PM : initializing extent report
+
+2/9/19 5:57 PM : starting test caseKFCSAMavenProject.Run.TC_02
+
+2/9/19 5:57 PM : browser is up and running
+
+2/9/19 5:57 PM : navigateToLoginPage method
+
+2/9/19 5:57 PM : login method invoked
+
+2/9/19 5:57 PM : login id : souvikmaiti02@gmail.com login password : Password1$
+
+2/9/19 5:57 PM : logOut method invoked
+
+2/9/19 6:11 PM : initializing extent report
+
+2/9/19 6:12 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:12 PM : browser is up and running
+
+2/9/19 6:12 PM : navigateToLoginPage method
+
+2/9/19 6:12 PM : login method invoked
+
+2/9/19 6:12 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 6:12 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:12 PM : browser is up and running
+
+2/9/19 6:12 PM : navigateToLoginPage method
+
+2/9/19 6:12 PM : login method invoked
+
+2/9/19 6:12 PM : KFCSAMavenProject.Run.TC_03 failed
+---------------------------------------------------------------------------------------
+2/9/19 6:14 PM : initializing extent report
+
+2/9/19 6:14 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:14 PM : browser is up and running
+
+2/9/19 6:14 PM : navigateToLoginPage method
+
+2/9/19 6:14 PM : login method invoked
+
+2/9/19 6:14 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 6:14 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:14 PM : browser is up and running
+
+2/9/19 6:14 PM : navigateToLoginPage method
+
+2/9/19 6:15 PM : login method invoked
+
+2/9/19 6:16 PM : org.openqa.selenium.remote.SessionNotFoundException: no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'PC257863', ip: '10.227.9.186', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\579401\AppData\Local\Temp\scoped_dir18680_19965}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=70.0.3538.67, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f69c01bbe9359e0d7047d9b67208f420
+*** Element info: {Using=xpath, value=//*[@id='vaidationerrors']} failed
+---------------------------------------------------------------------------------------
+2/9/19 6:20 PM : initializing extent report
+
+2/9/19 6:21 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:21 PM : browser is up and running
+
+2/9/19 6:21 PM : navigateToLoginPage method
+
+2/9/19 6:21 PM : login method invoked
+
+2/9/19 6:21 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 6:21 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:21 PM : browser is up and running
+
+2/9/19 6:21 PM : navigateToLoginPage method
+
+2/9/19 6:21 PM : login method invoked
+
+2/9/19 6:35 PM : initializing extent report
+
+2/9/19 6:35 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:35 PM : browser is up and running
+
+2/9/19 6:35 PM : navigateToLoginPage method
+
+2/9/19 6:35 PM : login method invoked
+
+2/9/19 6:35 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 6:35 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:35 PM : browser is up and running
+
+2/9/19 6:35 PM : navigateToLoginPage method
+
+2/9/19 6:36 PM : login method invoked
+
+2/9/19 6:39 PM : initializing extent report
+
+2/9/19 6:40 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:40 PM : browser is up and running
+
+2/9/19 6:40 PM : navigateToLoginPage method
+
+2/9/19 6:41 PM : login method invoked
+
+2/9/19 6:41 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 6:41 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 6:41 PM : browser is up and running
+
+2/9/19 6:42 PM : navigateToLoginPage method
+
+2/9/19 6:53 PM : navigateToLoginPage method
+
+2/9/19 6:56 PM : login method invoked
+
+2/9/19 6:56 PM : KFCSAMavenProject.Run.TC_03 failed
+---------------------------------------------------------------------------------------
+2/9/19 7:03 PM : initializing extent report
+
+2/9/19 7:04 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:04 PM : browser is up and running
+
+2/9/19 7:04 PM : navigateToLoginPage method
+
+2/9/19 7:04 PM : login method invoked
+
+2/9/19 7:04 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 7:04 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:04 PM : browser is up and running
+
+2/9/19 7:04 PM : navigateToLoginPage method
+
+2/9/19 7:04 PM : login method invoked
+
+2/9/19 7:07 PM : initializing extent report
+
+2/9/19 7:07 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:07 PM : browser is up and running
+
+2/9/19 7:07 PM : navigateToLoginPage method
+
+2/9/19 7:07 PM : login method invoked
+
+2/9/19 7:07 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 7:07 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:07 PM : browser is up and running
+
+2/9/19 7:07 PM : login method invoked
+
+2/9/19 7:08 PM : KFCSAMavenProject.Run.TC_03 failed
+---------------------------------------------------------------------------------------
+2/9/19 7:09 PM : initializing extent report
+
+2/9/19 7:30 PM : initializing extent report
+
+2/9/19 7:31 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:31 PM : browser is up and running
+
+2/9/19 7:31 PM : navigateToLoginPage method
+
+2/9/19 7:31 PM : login method invoked
+
+2/9/19 7:31 PM : login id : souvikmaiti02@gmail.com login password : Password2$
+
+2/9/19 7:31 PM : initializing extent report
+
+2/9/19 7:32 PM : starting test caseKFCSAMavenProject.Run.TC_03
+
+2/9/19 7:32 PM : browser is up and running
+
+2/9/19 7:32 PM : navigateToLoginPage method
+
+2/9/19 7:32 PM : login method invoked
