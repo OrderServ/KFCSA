@@ -8,6 +8,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
@@ -97,6 +98,29 @@ public class reusableMethods {
 		}
 		
 		
+	}
+	
+	public static boolean verifyElementPresence(WebDriver driver, By obj)
+	{
+		try
+		{
+			WebDriverWait wait = new WebDriverWait(driver, 15);
+			wait.until(ExpectedConditions.visibilityOfElementLocated(obj));
+			WebElement e = driver.findElement(obj);
+			if(e.isEnabled())
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.toString());
+			return false;
+		}
 	}
 
 

@@ -1,4 +1,4 @@
-package KFCSAMavenProject.Run;
+package KFCSAMavenProject.Run.Login;
 
 
 
@@ -99,6 +99,35 @@ public class TC_03 {
 			  loginPageComponents.navigateToLoginPage(driver);
 			  //reusableMethods.enterData(driver, loginPageElements.xEmailAddressTextBox, Keys.CLEAR);
 			  loginPageComponents.login(driver,data.getData(0, 4, 2),data.getData(0, 4, 3));
+			  insertIntoLogFile.insertToLog("login id : "+data.getData(0, 4, 2)+" login password : "+data.getData(0, 4, 3), true);
+			  boolean result = reusableMethods.verifyText(driver, loginPageElements.xInvalidLoginCredentialErrorMessage, data.getData(0, 3, 4));
+			  if(result == true)
+			  {
+				  logger.log(LogStatus.PASS, "validateInvalidLoginWithIncorrectEmailId passed");
+			  }
+			  else
+			  {
+				  logger.log(LogStatus.FAIL, "validateInvalidLoginWithIncorrectEmailId failed");
+				  insertIntoLogFile.insertToLog(TC_03.class.getName()+" failed", false);
+			  }
+		  }
+		  catch(Exception e)
+		  {
+			  insertIntoLogFile.insertToLog(e.toString()+" failed", false);
+		  }
+	  }
+	  @Test(retryAnalyzer = KFCSAMavenProject.Utilities.retryAnalyzer.class,priority = 2)
+	  public void validateInvalidLoginWithUnregisteredEmailId()throws Exception
+	  {
+		  try
+		  {
+			  logger = report.startTest("validateInvalidLoginWithUnregisteredEmailId");
+			  insertIntoLogFile.insertToLog("starting test case"+TC_03.class.getName(), true);	
+			  insertIntoLogFile.insertToLog("browser is up and running", true);
+			  loginPageComponents.navigateToLoginPage(driver);
+			  //reusableMethods.enterData(driver, loginPageElements.xEmailAddressTextBox, Keys.CLEAR);
+			  loginPageComponents.login(driver,data.getData(0, 5, 2),data.getData(0, 5, 3));
+			  insertIntoLogFile.insertToLog("login id : "+data.getData(0, 5, 2)+" login password : "+data.getData(0, 5, 3), true);
 			  boolean result = reusableMethods.verifyText(driver, loginPageElements.xInvalidLoginCredentialErrorMessage, data.getData(0, 3, 4));
 			  if(result == true)
 			  {

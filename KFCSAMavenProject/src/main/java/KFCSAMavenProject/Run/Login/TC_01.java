@@ -1,4 +1,4 @@
-package KFCSAMavenProject.Run;
+package KFCSAMavenProject.Run.Login;
 
 
 
@@ -24,13 +24,12 @@ import KFCSAMavenProject.Utilities.extentFactory;
 import KFCSAMavenProject.Utilities.insertIntoLogFile;
 import KFCSAMavenProject.BusinessComponents.*;
 
-public class TC_02 {
+public class TC_01 {
 	WebDriver driver;
 	Data data;
 	ExtentReports report;
 	ExtentTest logger;
 	loginPageComponents loginPageComponents = new loginPageComponents();
-	myAccountPageComponents myAccountPageComponents = new myAccountPageComponents();
 	
 	
 	
@@ -56,33 +55,32 @@ public class TC_02 {
 	}
 	
 	  @Test(retryAnalyzer = KFCSAMavenProject.Utilities.retryAnalyzer.class,priority = 1)
-	  public void validateLogout() throws Exception {
+	  public void validateLogin() throws Exception {
 		 try
 		 {
-			  logger = report.startTest("validateLogout");
-			  insertIntoLogFile.insertToLog("starting test case"+TC_02.class.getName(), true);	
+			  logger = report.startTest("validateLogin");
+			  insertIntoLogFile.insertToLog("starting test case"+TC_01.class.getName(), true);	
 			  driver.get("https://order.kfc.co.za");
 			  driver.manage().window().maximize();
 			  insertIntoLogFile.insertToLog("browser is up and running", true);
 			  loginPageComponents.navigateToLoginPage(driver);
 			  loginPageComponents.login(driver,data.getData(0, 1, 2),data.getData(0, 1, 3));
 			  insertIntoLogFile.insertToLog("login id : "+data.getData(0, 1, 2)+" login password : "+data.getData(0, 1, 3), true);
-			  myAccountPageComponents.logOut(driver);
-			  WebElement elementToValidate = driver.findElement(By.xpath("//*[@id='header-wrap']/div/div[2]/div[3]/a[1]"));
-			  String actualElementToValidate = elementToValidate.getText();
-			  if(actualElementToValidate.equalsIgnoreCase(data.getData(0, 2, 2)))
+			  WebElement userName = driver.findElement(By.xpath("//*[@id='header-wrap']/div/div[2]/div[3]/a"));
+			  String actualUserName = userName.getText();
+			  if(actualUserName.equalsIgnoreCase(data.getData(0, 1, 4)))
 			  {
-				  logger.log(LogStatus.PASS, "logout passed");
+				  logger.log(LogStatus.PASS, "login passed");
 			  }
 			  else
 			  {
-				  logger.log(LogStatus.FAIL, "logout failed");
-				  insertIntoLogFile.insertToLog(TC_02.class.getName()+" failed", false);
+				  logger.log(LogStatus.FAIL, "login failed");
+				  insertIntoLogFile.insertToLog(TC_01.class.getName()+" failed", false);
 			  }
 		 }
 		 catch(Exception e)
 		 {
-			 insertIntoLogFile.insertToLog(e.toString()+" failed", false);
+			 insertIntoLogFile.insertToLog(e.toString()+" failed", true);
 			 
 		 }
 			  

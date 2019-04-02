@@ -864,3 +864,15 @@ Session ID: f69c01bbe9359e0d7047d9b67208f420
 2/9/19 7:32 PM : navigateToLoginPage method
 
 2/9/19 7:32 PM : login method invoked
+
+2/11/19 9:19 PM : initializing extent report
+
+2/11/19 9:20 PM : starting test caseKFCSAMavenProject.Run.TC_01
+
+2/11/19 9:20 PM : browser is up and running
+
+2/11/19 9:20 PM : navigateToLoginPage method
+
+2/11/19 9:20 PM : login method invoked
+
+2/11/19 9:20 PM : login id : souvikmaiti02@gmail.com login password : Password1$
